@@ -31,7 +31,7 @@ Nuance was originally incorporated as Visioneer in 1992.  The company has morphe
 ---
 ### Pier-Alain Cotte 
 
-The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At that time Visioneer focused on "intelligent document capture solutions" or scanners. 
+The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At that time, Visioneer focused on "intelligent document capture solutions" or scanners. 
 
 ![](pierre.webp){ width="340" height="470" style="display: block; margin: 0 auto" }
 
@@ -39,7 +39,7 @@ The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At 
 
 ### Ronald Croen
 
-Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Once Nuance spunoff from SRI International, he served as Nuance's CEO for 10 years until a merger with Scansoft (which had previously merged with Visioneer).   
+Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Once Nuance spunoff from SRI International, Croen served as Nuance's CEO for 10 years until a merger with Scansoft (which had previously merged with Visioneer).   
 
 ![](RonaldCroen-220x220.jpg){ width="350" height="350" style="display: block; margin: 0 auto" }
 
@@ -54,7 +54,7 @@ Nuance has evolved over the years to include digital document management, voice 
 
 
 ### Visioneer and Beyond
-Though there was widespead adoption of personal computing by the 1980s and early 1990s, the work still necessitated the frequent use of paper.  Visioneer made it possible for a regular employee to conveniently convert paper documents to digital with sheetfed scanners.  Later advances such as the [OneTouch](https://www.visioneer.com/visioneer-intelligent-software-platform/visioneer-onetouch-software/#:~:text=Visioneer%20OneTouch%20directly%20links%20Visioneer,ability%20%E2%80%93%20even%20all%20at%20once.) scanner improved worker productivity and creativity by making scanning and information exchange easier.  
+Though there was widespead adoption of personal computing by the 1980s and early 1990s, work still necessitated the frequent use of paper.  Visioneer made it possible for a regular employee to conveniently convert paper documents to digital with sheetfed scanners.  Later advances such as the [OneTouch](https://www.visioneer.com/visioneer-intelligent-software-platform/visioneer-onetouch-software/#:~:text=Visioneer%20OneTouch%20directly%20links%20Visioneer,ability%20%E2%80%93%20even%20all%20at%20once.) scanner improved worker productivity and creativity by making scanning and information exchange easier.  
 
 ![Visioneer OneTouch Scanner Example](visioneer-onetouch.jpeg)
 *An example of a Visioneer OneTouch scanner.*
