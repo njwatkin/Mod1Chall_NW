@@ -93,7 +93,6 @@ Though Nuance is synomous with Siri, the Healthcare industry has traditionally b
 
 
 | **Year**           | **Revenue**  | **Change**  |
-|------------------------|--------------|
 | 2021 (TTM)     | $1.33 B  | -4.86%  |
 | 2020           | $1.40 B  | -19.53% |
 | 2019           | $1.74 B  | -14.48% |
