@@ -27,14 +27,15 @@ Nuance was originally incorporated as Visioneer in 1992.  The company has morphe
 
 The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At that time, Visioneer focused on "intelligent document capture solutions" or scanners. 
 
-![Pierre](pierre.webp) {width="400" height="470" margin: 0 auto"} 
+![Pierre](pierre.webp) 
+
 <i>Pierre-Alain Cotte, Visioneer founder, 1992</i>
 
 ### Ronald Croen
 
 Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Once Nuance spunoff from SRI International, Croen served as Nuance's CEO for 10 years until a merger with Scansoft (which had previously merged with Visioneer).   
 
-![](RonaldCroen-220x220.jpg){ width="350" height="350" margin: 0 auto" }
+![](RonaldCroen-220x220.jpg)
 
 <i>Ronald Croen, Nuance Communications co-founder, 2005</i>
 
