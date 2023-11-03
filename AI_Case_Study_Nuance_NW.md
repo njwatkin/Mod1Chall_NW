@@ -204,7 +204,7 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 | Cloud Computing Platform | Computing services available over the internet.                                                                                                                                   |   
 | Electronic Health Record | Electronic records of a patient's history.                                                                                                                                        
 
-*Dax Copilot's primary technologies and what they do.*
+*DAX Copilot's primary technologies and what they do.*
 
 ![Tech](DisruptiveInnovationAI.webp) 
 
@@ -248,7 +248,7 @@ Besides being in the majority of US hospitals and used by most physicians, Nuanc
 
 ![](10-year-stock-price-chart-Nuance-Communications-Inc.png)
 
-*A 10-year stock pricing timeline for Nuance from 2012 to 2022. Nuance stock more than doubled in value just prior to the acquisition by Microsoft.  The share price has stayed close to 56 dollars since then*
+*A 10-year stock pricing timeline for Nuance from 2012 to 2022. Nuance stock more than doubled in value just prior to the acquisition by Microsoft.  The price of a share has stayed close to 56 dollars since then.
 
 
 ## <span style="color: green">Core Metrics 
