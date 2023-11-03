@@ -57,6 +57,7 @@ Nuance has evolved over the years to include digital document management, voice 
 Though there was widespead adoption of personal computing by the 1980s and early 1990s, work still necessitated the frequent use of paper.  Visioneer made it possible for a regular employee to conveniently convert paper documents to digital with sheetfed scanners.  Later advances such as the [OneTouch](https://www.visioneer.com/visioneer-intelligent-software-platform/visioneer-onetouch-software/#:~:text=Visioneer%20OneTouch%20directly%20links%20Visioneer,ability%20%E2%80%93%20even%20all%20at%20once.) scanner improved worker productivity and creativity by making scanning and information exchange easier.  
 
 ![Visioneer OneTouch Scanner Example](visioneer-onetouch.jpeg)
+
 *An example of a Visioneer OneTouch scanner.*
 
 When the two competing speech recognition companies Nuance and ScanSoft merged in 2005, the newly minted Nuance restructured with layoffs and office site consolidations.  
