@@ -91,9 +91,10 @@ Most recently, Nuance  was purchased by Microsoft in  2022. Prior to 2022, Nuanc
 ### Funding Amount
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's overall revenue actually represented a dip since a high of nearly 2 billion dollars in 2018.  
 
-| Annual revenue |          |         |
+
 |----------------|----------|---------|
-| Year           | Revenue  | Change  |
+| ***Year***           | ***Revenue***  | ***Change***  |
+|----------------|----------|---------|
 | 2021 (TTM)     | $1.33 B  | -4.86%  |
 | 2020           | $1.40 B  | -19.53% |
 | 2019           | $1.74 B  | -14.48% |
@@ -115,7 +116,7 @@ Though Nuance is synomous with Siri, the Healthcare industry has traditionally b
 | 2002           | $0.10 B  | 66.97%  |
 | 2001           | $63.85 M |         |
 
-*Nuance's revenue between 2001 and 2021.*
+*Nuance's annual revenue between 2001 and 2021.*
 
 Nuance was purchased by Microsoft in an all-cash transaction of $19.7 billion on March 4, 2022, to form a new entity called [Microsoft + Nuance](https://www.microsoft.com/en-us/industry/nuance).  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
