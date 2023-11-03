@@ -86,9 +86,7 @@ Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsof
 ---
 ### Nuance's Funding
 
-Most recently, Nuance  was purchased by Microsoft in an all-cash transaction on March 4, 2022.  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
-
-Prior to 2022, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
+Most recently, Nuance  was purchased by Microsoft in  2022. Prior to 2022, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
 
 ### Funding Amount
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's overall revenue actually represented a dip since a high of nearly 2 billion dollars in 2018.  
@@ -121,12 +119,12 @@ Though Nuance is synomous with Siri, the Healthcare industry has traditionally b
 
 Nuance was purchased by Microsoft in an all-cash transaction of $19.7 billion on March 4, 2022.   This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
-Prior to Nuance's acquisition by Microsoft, the company had 28 investors ans had raised 70 million dollars over 12 funding rounds.
+Prior to Nuance's acquisition by Microsoft, the company had 28 investors ans had raised an estimated 70 million dollars over 12 funding rounds. However, this seemed low and additional research involving paid access to financial reports would likely refine that estimate. 
 
 
 [![MSoftBuysNuance](https://i.ytimg.com/vi/szS2JlDukYc/hqdefault.jpg)](https://www.youtube.com/watch?v=szS2JlDukYc "MSoftBuysNuance")
 
-*Microsoft's acquisition of Nuance in the popular media.  Please click on the image to access the video*
+*Microsoft's acquisition of Nuance reported in the popular media.  Please click on the image to access the video*
 
 You can watch videos from Microsoft's and Nuance Communications's CEOs for their takes on the merger at [Microsoft + Nuance:  Better Together](https://news.microsoft.com/nuance/)
 
@@ -141,25 +139,25 @@ You can watch videos from Microsoft's and Nuance Communications's CEOs for their
 As far back as Ancient Greece, the notes a physician recorded when consulting with a patient were a narrative diary of the patient's symptoms.  Advances in the sciences from the 17th-century on have shifted the physician's notes away from a hand-written diary to a complicated digital tome shaped buy standardization, specialists, medications, test results, diagnoses, treatments, prognoses, research findings, malpractice suits, third-party payment, a patient's social history, and many other factors.    
 
 >![Back to Patient](Crayon.png){ width="700" height="355" style="display: block; margin: 0 auto" }
-*The above drawing was published in a 2019 issue of The Lancet.  It made an immediate sensation across the healthcare industry. To the left, is the pediatrician.  He has his back turned to a patient and her family (to the right) while he (to the left) focuses on data entry into the electronic medical record.  The drawing became iconic of the growing disconnection between physician and patient during clinical documentation brought on by the widespread adoption of the electronic medical record and after the passing of the [Patient Protection and Affordable Care Act](https://www.healthcare.gov/glossary/patient-protection-and-affordable-care-act/) in 2010.*
+*The above drawing was published in a 2019 issue of The Lancet.  It caused a sensation across the healthcare industry. To the left, is the pediatrician.  He has his back turned to a patient and her family (to the right) while he (to the left) focuses on data entry into the electronic health record (EHR).  The drawing became iconic of the growing disconnection between physician and patient during clinical consults brought on by the widespread adoption of the electronic medical record and after the passing of the [Patient Protection and Affordable Care Act](https://www.healthcare.gov/glossary/patient-protection-and-affordable-care-act/) in 2010.*
 
 
 There have been serious consequences to the digitization. 
 
-With a required focus on the electronic medical record (EMR), correct entry of [Current Procedural Terminology (CPT)](https://www.ama-assn.org/practice-management/cpt/cpt-overview-and-code-approval#:~:text=Code%20applications%20%26%20criteria-,What%20is%20a%20CPT®%20code%3F,reporting%2C%20increase%20accuracy%20and%20efficiency.) and [International Classification of Diseases Codes (ICD)](https://www.cdc.gov/nchs/icd/icd10.htm) for billing, and computer hardware during a consult, today's physicians have become distanced from their patients. They are also shouldered with more administrative responsibilities that have to be completed in shorter springs of time.  
+With a required focus on the EHR, correct entry of [Current Procedural Terminology (CPT)](https://www.ama-assn.org/practice-management/cpt/cpt-overview-and-code-approval#:~:text=Code%20applications%20%26%20criteria-,What%20is%20a%20CPT®%20code%3F,reporting%2C%20increase%20accuracy%20and%20efficiency.) and [International Classification of Diseases Codes (ICD)](https://www.cdc.gov/nchs/icd/icd10.htm) for billing purposes, and computer hardware during a consult, today's physicians have become distanced from their patients. Less eye contact and attention is paid to teh patient.  The physicians are also shouldered with more administrative responsibilities that have to be completed in shorter springs of time.  
 
 Consequently, burnout is now an epidemic among physicians, with as much as 53% experiencing the symptoms.  What's more, the erosion of the physician-patient relationship has caused poorer patient outcomes and engagement.  
 
 
 
 
-##<span style="color: green">Nuance's Market
+## <span style="color: green">Nuance's Market
 ---
 ### Nuance's Customer
 
-"Restoring the Joy of Practicing Medicine" Nuance [Dragon Ambient eXperience (DAX)](https://www.nuance.com/healthcare/ambient-clinical-intelligence.html) has evolved over the last few years to its latest iteration of fully automated clinical documentation, [DAX Copilot](https://www.prnewswire.com/news-releases/nuance-announces-the-general-availability-of-dragon-ambient-experience-copilot-to-further-improve-healthcare-experiences-outcomes-and-efficiency-301939899.html). Where prior versions of DAX relied on conversational and ambient artificial intelligence, DAX Copilot includes generative AI (i.e., the "copilot"). DAX Copilot can be used for virtual or in-person healthcare visits.  
-
 >"DAX's platform digitizes and records the conversation between the clinician and patient and the data is used to create clinical notes, diaries, and EHRs. From there, Nuance's AI learns with each patient encounter." (Dignan, ZDNET)
+
+*"Restoring the Joy of Practicing Medicine"*, Nuance [Dragon Ambient eXperience (DAX)](https://www.nuance.com/healthcare/ambient-clinical-intelligence.html) has evolved over the last few years to its latest iteration of fully-automated clinical documentation, [DAX Copilot](https://www.prnewswire.com/news-releases/nuance-announces-the-general-availability-of-dragon-ambient-experience-copilot-to-further-improve-healthcare-experiences-outcomes-and-efficiency-301939899.html). Where prior versions of DAX relied mostly on conversational and ambient artificial intelligence, DAX Copilot includes generative AI (i.e., the "copilot"). DAX Copilot is also flexible.  It can be used for virtual or in-person healthcare visits.  
 
 Primary customers for DAX Copilot include:
 1. Hospital administration
@@ -169,7 +167,7 @@ Primary customers for DAX Copilot include:
 1. Patients
 
 [![DAXTestimonial](https://i.ytimg.com/vi/RvTylojW4K4/maxresdefault.jpg)](https://www.youtube.com/watch?v=RvTylojW4K4&t=1s "DAXTestimonial")
-*Physician and administator testimonial about the value of using DAX at University of Michigan Health-West.  Please click on the image to access the video.*
+*Physician and administator testimonials on the the value of using DAX at University of Michigan Health-West.  Please click on the image to access the video.*
 
 
 ### Mutual Benefits for Scalability and Differentiation
@@ -267,7 +265,7 @@ Nuance's core metrics fall broadly into value-based and traditional financial me
 6.  Greater physician retention and engagement
 
 [![GameChanger](https://i.ytimg.com/vi/xPHlim1lwcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=xPHlim1lwcs "GameChanger")
-*A testimonial from Valley View Hospital of DAX Copilot's value.*
+*A testimonial from Valley View Hospital of DAX Copilot's contribution to some value-based metrics.*
 
 There are several traditional financial metrics for Nuance including but not limited to:
 1. Increased revenue
