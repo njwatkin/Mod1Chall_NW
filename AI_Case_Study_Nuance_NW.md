@@ -74,7 +74,7 @@ When the two competing speech recognition companies Nuance and ScanSoft merged i
 The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedication to [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare), a comprehensive, industry-specific cloud strategy for healthcare.  
 
 [![MCforHCinAction](https://i.ytimg.com/vi/OWMBCSi-iA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWMBCSi-iA8 "MCforHCinAction")
-*Microsoft Cloud for Healthcare in action - A digital front door to personalize the patient visit. Please click on the image to access the video*
+*Microsoft Cloud for Healthcare in action - A digital front door to personalize the patient visit. Please click on the image to access the video.*
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
 
@@ -124,7 +124,7 @@ Prior to Nuance's acquisition by Microsoft, the company had 28 investors ans had
 
 [![MSoftBuysNuance](https://i.ytimg.com/vi/szS2JlDukYc/hqdefault.jpg)](https://www.youtube.com/watch?v=szS2JlDukYc "MSoftBuysNuance")
 
-*Microsoft's acquisition of Nuance reported in the popular media.  Please click on the image to access the video*
+*Microsoft's acquisition of Nuance reported in the popular media.  Please click on the image to access the video.*
 
 You can watch videos from Microsoft's and Nuance Communications's CEOs for their takes on the merger at [Microsoft + Nuance:  Better Together](https://news.microsoft.com/nuance/)
 
@@ -267,7 +267,7 @@ Nuance's core metrics fall broadly into value-based and traditional financial me
 
 [![GameChanger](https://i.ytimg.com/vi/xPHlim1lwcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=xPHlim1lwcs "GameChanger")
 
-*A testimonial from Valley View Hospital of DAX Copilot's contribution to some value-based metrics.*
+*A testimonial from Valley View Hospital of DAX Copilot's contribution to some value-based metrics.  Please click on the image to access the video.*
 
 There are several traditional financial metrics for Nuance including but not limited to:
 1. Increased revenue
@@ -278,8 +278,6 @@ There are several traditional financial metrics for Nuance including but not lim
 4. Improved economies of scale
 
 Currently, Microsoft + Nuance is the second largest cloud-based service provider (22% of market) behind Amazon Web Services (34% of market).
-
-https://www.youtube.com/watch?v=R8YR243hbNA
 
 # Recommendations
 
