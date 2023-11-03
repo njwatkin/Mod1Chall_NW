@@ -206,7 +206,7 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 
 *Dax Copilot's primary technologies and what they do.*
 
-![Tech](DisruptiveInnovationAI.webp){ width="500" height="330" style="display: block; margin: 0 auto" }
+![Tech](DisruptiveInnovationAI.webp) {width="500" height="330" style="display: block; margin: 0 auto"}
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to its acquisition by Microsoft. This is a simplified diagram illustrating how Nuance DAX works.*
 
