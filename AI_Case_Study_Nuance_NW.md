@@ -4,7 +4,7 @@
 
 
 
-![Nuance logo](image.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Nuance logo](image.png)
 
 ***
 # Overview
