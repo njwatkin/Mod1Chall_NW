@@ -92,9 +92,8 @@ Most recently, Nuance  was purchased by Microsoft in  2022. Prior to 2022, Nuanc
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's overall revenue actually represented a dip since a high of nearly 2 billion dollars in 2018.  
 
 
-
-| ***Year***           | ***Revenue***  | ***Change***  |
 |----------------|----------|---------|
+| **Year**           | **Revenue**  | **Change**  |
 | 2021 (TTM)     | $1.33 B  | -4.86%  |
 | 2020           | $1.40 B  | -19.53% |
 | 2019           | $1.74 B  | -14.48% |
@@ -179,7 +178,7 @@ Scalability, proprietary digital technology, and compatibility give Microsoft + 
 
 Microsoft + Nuance will be able to deploy Nuance's natural language processing software across a variety of Microsoft products including Microsoft Teams. The resulting AI-voice assistant offering could open Microsoft + Nuance to increased market share among call centers.   
 
-| Microsoft                                              | Nuance                                                                 |
+| **Microsoft**                                              | **Nuance**                                                                 |
 |--------------------------------------------------------|------------------------------------------------------------------------|
 | Azure is the second largest cloud service in the world | 77% of US hospitals use Nuance DAX                                     |
 | Global distribution                                    | Used by more than 55% of physicians                                    |
@@ -200,7 +199,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 With the DAX Copilot app, physician's smartphone seamlessly and discreetly documents the physician-patient interaction and then populates the patient's EHR without imposing on the natural flow of conversation and care delivery.  DAX Copilot enriches the content of physician's notes by offering decision support and personalization based on generative AI of a patient's electronic health record and reported preferences.         
 
 
-| The Technology           | What the Technology Does                                                                                                                                                          |   
+| **The Technology**           | **What the Technology Does**                                                                                                                                                          |   
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Conversational AI        | AI technologies that simulate human conversation.  The AI and machine learning includes speech recognition and natural language processing.                       |   
 | Ambient AI               | Discreetly blends into the context it records and reacts to by inhabiting everyday devices.  The AI technology is regularly calibrated by user experiences and acts on the user's behalf. |   
@@ -233,7 +232,7 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 ![](Topcloud.png)
 *These are Microsoft + Nuance's top competitors of cloud-based services.*
 
-| Cloud Service Provider | Market Share |
+| **Cloud Service Provider** | **Market Share** |
 |------------------------|--------------|
 | Amazon Web Services    | 34%          |
 | Microsoft Azure        | 22%          |
