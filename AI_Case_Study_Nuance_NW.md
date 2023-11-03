@@ -46,11 +46,11 @@ Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Onc
 <p align="center"><i>Ronald Croen, Nuance Communications co-founder, 2005</i></p>
 
 
-## <span style="color: green">The Fire Behind Nuance 
+## <span style="color: green">The Motivation Behind Nuance 
 ---
 ### The Overall Inspiration for Nuance
 
-Nuance has evolved over the years to include digital document management, voice recognition, natural language processing, artificial intelligence, decision support, and other techonologies.  Throughout, it has focused on improving the productivity, efficiency, and seamless experience of information flow with a focus on healthcare.
+Nuance has evolved over the years to include digital document management, voice recognition, natural language processing, artificial intelligence, decision support, and other techonologies.  Throughout, it has been driven to improve the productivity, efficiency, and seamless experience of information flow.
 
 
 ### Visioneer and Beyond
