@@ -29,7 +29,7 @@ The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At 
 
 ![Pierre](pierre.webp) { width="400" height="470" style="display: block; margin: 0 auto" }
 
-![Pierre](pierre.webp) with <img src="[https://your-image-url.type](https://www.manager-magazin.de/unternehmen/karriere/a-237520.html)" width="100" height="100">
+![Pierre](pierre.webp) <img src="[https://your-image-url.type](https://www.manager-magazin.de/unternehmen/karriere/a-237520.html)" width="100" height="100">
 
 <p align="center"><i>Pierre-Alain Cotte, Visioneer founder, 1992</i></p>
 
