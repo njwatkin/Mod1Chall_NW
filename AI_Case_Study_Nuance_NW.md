@@ -21,7 +21,7 @@
 
 Nuance was originally incorporated as Visioneer in 1992.  The company has morphed and changed names through a series of acquisitions and mergers before officially adopting the name of Nuance in 2005 during a merger with Scansoft.
 
-!<iframe src="https://www.sciencedirect.com/science/article/abs/pii/S0969476505703490"  width="700" height="100" style="display: block; margin: 0 auto"; title="SEC"></iframe>
+<iframe src="https://www.sciencedirect.com/science/article/abs/pii/S0969476505703490" width="700" height="100" style="display: block; margin: 0 auto"; title="SEC"></iframe>
 
 
 
