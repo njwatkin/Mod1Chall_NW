@@ -183,7 +183,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 | Azure is the second largest cloud service in the world | 77% of US hospitals use Nuance DAX                                     |
 | Global distribution                                    | Used by more than 55% of physicians                                    |
 |                                                        | Doubles Microsoft's total addressable market with healthcare providers |
-|                                                        | Expertise and compatibility EHR (Electronic Health Record)       |
+|                                                        | Expertise with AI, NLP, and EHR (Electronic Health Record)       |
 |                                                        | DAX is compatible with 14 medical specialties                                         |
 |                                                        | Ranked #1 for improving clinician experience (i.e., KLAS 2022)         |
 |                                                        | Compatibility with Azure                                               |
