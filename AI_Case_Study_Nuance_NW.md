@@ -287,7 +287,7 @@ I would recommend Nuance branch into augmented and virtual reality.
 
 ## <span style="color: green">Benefits
 ---
-Currently Nuance's offerings for healthcare are limited to speech, documentation, and healthcare settings.  Patients are engage in their healthcare through a variety of experiences including visuals and haptics.  They also frequently engage in care outside of healthcare settings throuhg telehealth.  Opportunities to turn any home into a sensory rich and informative virtual clinic could provide several potential financial and social benefits.
+Currently, Nuance's offerings for healthcare are limited to speech, documentation, and experiences in healthcare settings.  Patients engage in their healthcare through a variety of experiences including visuals and haptics.  They also frequently engage in care outside of healthcare settings with telehealth.  Opportunities to turn any home into a sensory rich and informative virtual clinic could provide several potential financial and social benefits as well as cost savings to healthcare systems.
 
 ---
 
@@ -347,7 +347,7 @@ https://companiesmarketcap.com/nuance-communications/revenue/
 
 https://www.knowledgehut.com/blog/cloud-computing/top-cloud-computing-companies
 
-The Digital Doctor:  Hope, Hype, and Harm at the Dawn of Medicine's Computer Age.
+*The Digital Doctor:  Hope, Hype, and Harm at the Dawn of Medicine's Computer Age.*
 
 
 
