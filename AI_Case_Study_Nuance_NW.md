@@ -19,16 +19,7 @@
 
 ---
 
-Nuance was originally incorporated as Visioneer in 1992.  The company has morphed and changed names through a series of acquisitions and mergers before officially adopting the name of Nuance in 2005 during a merger with Scansoft.
-
-<iframe 
- src="https://www.sciencedirect.com/science/article/abs/pii/S0969476505703490"  width="700" height="100" style="display: block; margin: 0 auto"; title="SEC"></iframe>
-
- 
-
-
-
-*Nuance's merger with Scansoft in 2005 for 220 million dollars was a big deal as the Nuance would then control 77% of the market for speech recognition.*
+Nuance was originally incorporated as Visioneer in 1992.  The company has morphed and changed names through a series of acquisitions and mergers before officially adopting the name of [Nuance](https://www.computerworld.com/article/2556291/scansoft-to-buy-nuance-for--220m.html) in 2005 during a merger with Scansoft.  Nuance's merger with Scansoft in 2005 for 220 million dollars was a big deal as the Nuance would then control 77% of the market for speech recognition.*
 
 ## <span style="color: green">Nuance's Originators
 ---
