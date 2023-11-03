@@ -132,7 +132,7 @@ You can watch videos from Microsoft's and Nuance Communications's CEOs for their
 
 
 
-##<span style="color: green">The Problems Nuance Solves 
+## <span style="color: green">The Problems Nuance Solves 
 ---
 
 
@@ -174,9 +174,9 @@ Primary customers for DAX Copilot include:
 
 >"In 2019, Nuance and Microsoft combined on a healthcare stack that included speech recognition and processing, clinical documentation, decision support, and Azure AI and natural language tools." (Dignan, ZDNET)
 
- Scalability, proprietary digital technology, and compatibility give Microsoft + Nuance an edge in the healthcare market.  Over and above that, healthcare is one of the largest and fastest growing industries worth nearly 12 trillion dollars in 2022.  
+Scalability, proprietary digital technology, and compatibility give Microsoft + Nuance an edge in the healthcare market.  Over and above that, healthcare is one of the largest and fastest growing industries worth nearly 12 trillion dollars in 2022.  
 
- Microsoft + Nuance will be able to deploy Nuance's natural language processing software across a variety of Microsoft products includign Microsoft Teams. This could open Microsoft to increased market share among call centers from a more robust AI-voice assistant offering powered by Nuance. 
+Microsoft + Nuance will be able to deploy Nuance's natural language processing software across a variety of Microsoft products includign Microsoft Teams. This could open Microsoft to increased market share among call centers from a more robust AI-voice assistant offering powered by Nuance. 
 
 | Microsoft                                              | Nuance                                                                 |
 |--------------------------------------------------------|------------------------------------------------------------------------|
