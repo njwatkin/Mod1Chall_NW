@@ -210,6 +210,7 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 *Dax Copilot's primary technologies and what they do.*
 
 ![Tech](DisruptiveInnovationAI.webp){ width="500" height="330" style="display: block; margin: 0 auto" }
+
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to its acquisition by Microsoft. This is a simplified diagram illustrating how Nuance DAX works.*
 
   
@@ -241,13 +242,15 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 
 
 *Share of market by the top cloud-based service providers.*
-#Results
+
+# Results
 
 ## <span style="color: green">Business Impact
 
 Besides being in the majority of US hospitals and used by most physicians, Nuance could claim 1.33 billion dollars in 2021.  However, this amount reflected a slump from 1.74 billion dollars in 2019.  
 
 ![](10-year-stock-price-chart-Nuance-Communications-Inc.png)
+
 *A 10-year stock pricing timeline for Nuance from 2012 to 2022. Nuance stock more than doubled in value just prior to the acquisition by Microsoft.  The share price has stayed close to 56 dollars since then*
 
 
@@ -263,6 +266,7 @@ Nuance's core metrics fall broadly into value-based and traditional financial me
 6.  Greater physician retention and engagement
 
 [![GameChanger](https://i.ytimg.com/vi/xPHlim1lwcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=xPHlim1lwcs "GameChanger")
+
 *A testimonial from Valley View Hospital of DAX Copilot's contribution to some value-based metrics.*
 
 There are several traditional financial metrics for Nuance including but not limited to:
