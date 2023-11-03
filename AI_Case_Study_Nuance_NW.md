@@ -80,7 +80,7 @@ Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsof
 
 ![Pajama Time](1556630804933.png){ width="340" height="470" style="display: block; margin: 0 auto" }
 
-*For physicians, clinical documentation also occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on work-life balance. "Pajama time" is what physicians call the time they take to catchup on clinical documentation.*  
+*Clinical documentation occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on physicians's work-life balance. "Pajama time" is what physicians call this to catchup on clinical documentation.*  
 
 ## <span style="color: green">Nuance's Backing 
 ---
