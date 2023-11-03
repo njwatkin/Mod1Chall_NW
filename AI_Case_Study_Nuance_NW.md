@@ -157,7 +157,7 @@ Consequently, burnout is now an epidemic among physicians, with as much as 53% e
 
 >"DAX's platform digitizes and records the conversation between the clinician and patient and the data is used to create clinical notes, diaries, and EHRs. From there, Nuance's AI learns with each patient encounter." (Dignan, ZDNET)
 
-*"Restoring the Joy of Practicing Medicine"*, Nuance [Dragon Ambient eXperience (DAX)](https://www.nuance.com/healthcare/ambient-clinical-intelligence.html) has evolved over the last few years to its latest iteration of fully-automated clinical documentation, [DAX Copilot](https://www.prnewswire.com/news-releases/nuance-announces-the-general-availability-of-dragon-ambient-experience-copilot-to-further-improve-healthcare-experiences-outcomes-and-efficiency-301939899.html). Where prior versions of DAX relied mostly on conversational and ambient artificial intelligence, DAX Copilot includes generative AI (i.e., the "copilot"). DAX Copilot is also flexible.  It can be used for virtual or in-person healthcare visits.  
+*"Restoring the Joy of Practicing Medicine"*, Nuance [Dragon Ambient eXperience (DAX)](https://www.nuance.com/healthcare/ambient-clinical-intelligence.html) has evolved over the last few years to its latest iteration of fully-automated clinical documentation, [DAX Copilot](https://www.prnewswire.com/news-releases/nuance-announces-the-general-availability-of-dragon-ambient-experience-copilot-to-further-improve-healthcare-experiences-outcomes-and-efficiency-301939899.html). Where prior versions of DAX relied mostly on conversational and ambient artificial intelligence, DAX Copilot includes generative AI (i.e., the "copilot").
 
 Primary customers for DAX Copilot include:
 1. Hospital administration
@@ -174,9 +174,9 @@ Primary customers for DAX Copilot include:
 
 >"In 2019, Nuance and Microsoft combined on a healthcare stack that included speech recognition and processing, clinical documentation, decision support, and Azure AI and natural language tools." (Dignan, ZDNET)
 
-Scalability, proprietary digital technology, and compatibility give Microsoft + Nuance an edge in the healthcare market.  Over and above that, healthcare is one of the largest and fastest growing industries worth nearly 12 trillion dollars in 2022.  
+Scalability, proprietary digital technology, and compatibility give Microsoft + Nuance an edge in the healthcare market.  There is a lot of room for growth in the healthcare industry; healthcare is one of the largest and fastest growing industries worth nearly 12 trillion dollars in 2022.  
 
-Microsoft + Nuance will be able to deploy Nuance's natural language processing software across a variety of Microsoft products includign Microsoft Teams. This could open Microsoft to increased market share among call centers from a more robust AI-voice assistant offering powered by Nuance. 
+Microsoft + Nuance will be able to deploy Nuance's natural language processing software across a variety of Microsoft products including Microsoft Teams. The resulting AI-voice assistant offering would open Microsoft + Nuance to increased market share among call centers.   
 
 | Microsoft                                              | Nuance                                                                 |
 |--------------------------------------------------------|------------------------------------------------------------------------|
@@ -193,8 +193,6 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 ![Tech](Differentiation.png){ width="500" height="330" style="display: block; margin: 0 auto" }
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to its acquisition by Microsoft.  The excerpt shares Nuance's key differentiators.*
-
-Nuance adds strong
 
 ## <span style="color: green">Nuance's Technology 
 ---
