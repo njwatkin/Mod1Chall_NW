@@ -286,9 +286,9 @@ Currently, Microsoft + Nuance is the second largest cloud-based service provider
 I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the seamless adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.  
 
 
-Value-based and traditional economic benefits that could be positively impacted would include:
-- Increased market permeation for Microsoft + Nuance through a more comprehensive Microsoft Cloud for Healthcare offering and into other markets where health and wellness are a priority for consumers.
-- Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences and outcomes. 
+>Value-based and traditional economic benefits that could be positively impacted would include:
+>- Increased market permeation for Microsoft + Nuance through a more comprehensive Microsoft Cloud for Healthcare offering and into other markets where health and wellness are a priority for consumers.
+>- Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences and outcomes. 
 
 ## <span style="color: green">Benefits
 ---
