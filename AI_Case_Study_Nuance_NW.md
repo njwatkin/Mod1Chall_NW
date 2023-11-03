@@ -283,9 +283,10 @@ Currently, Microsoft + Nuance is the second largest cloud-based service provider
 
 ## <span style="color: green">Advise
 ---
-I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the seamless adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.  Optimized value-based and traditional economic benefits would include:
+I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the seamless adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.  Value-based and traditional economic benefits that could be positively impacted would include:
 
 -Increased market permeation for Microsoft + Nuance through a more comprehensive Microsoft Cloud for Healthcare offering and into other markets where health and wellness are a priority for consumers.
+
 -Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences and outcomes. 
 
 ## <span style="color: green">Benefits
@@ -294,7 +295,7 @@ Currently, Nuance's offerings for healthcare are primarily limited to speech, te
 
 There are opportunities for DAX to become more adaptible to hybridized and complex contexts and services beyond administrative tasks to inlcude care delivery, diagnostics, and therapies: 
 -Triangulation of a physician, patient, patient advocate, and specialist in a shared environment they can synchronously interact in irrespective of location
--Patient expression of a condition or experience using a variety of media or nonverbals (i.e., mhealth, images and video, experience sampling methdology, and hand-and- facial nonverbals) that can be translated through and represented in DAX 
+-Patient expression of a condition or experience using a variety of media or nonverbals (i.e., mhealth, images and video, sleep studies, experience sampling methdology, and hand-and- facial nonverbals) that can be translated through and represented in DAX 
 -Contexts that require high cultural competency and empathy 
 -Training for practicing care providers that is scalable, cost-effective, and experiential
 -Broader social determinants of health and community health
