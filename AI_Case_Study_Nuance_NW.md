@@ -227,6 +227,7 @@ Healthcare AI is a crowded space with many competitors.  Prior to acquistion by 
 Following the acquisition, the competition grew in number and size.   Microsoft + Nuance can now count Amazon Web Services and Google cloud as major competitors.
 
 ![](Topcloud.png)
+
 *These are Microsoft + Nuance's top competitors of cloud-based services.*
 
 | **Cloud Service Provider** | **Market Share** |
