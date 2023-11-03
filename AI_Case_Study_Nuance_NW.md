@@ -15,7 +15,7 @@
 
 
 
-##<span style="color: green">Nuance's Incorporation
+## <span style="color: green">Nuance's Incorporation
 
 ---
 
@@ -27,9 +27,9 @@ Nuance was originally incorporated as Visioneer in 1992.  The company has morphe
 
 *Nuance's merger with Scansoft in 2005 for 220 million dollars was a big deal (scroll down). It was even reported in scientific journals. Please scroll down on the image.*
 
-##<span style="color: green">Nuance's Originators
+## <span style="color: green">Nuance's Originators
 ---
-###Pier-Alain Cotte 
+### Pier-Alain Cotte 
 
 The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At that time Visioneer focused on "intelligent document capture solutions" or scanners. 
 
@@ -37,7 +37,7 @@ The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At 
 
 <p align="center"><i>Pierre-Alain Cotte, Visioneer founder, 1992</i></p>
 
-###Ronald Croen
+### Ronald Croen
 
 Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Once Nuance spunoff from SRI International, he served as Nuance's CEO for 10 years until a merger with Scansoft (which had previously merged with Visioneer).   
 
@@ -46,21 +46,21 @@ Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Onc
 <p align="center"><i>Ronald Croen, Nuance Communications co-founder, 2005</i></p>
 
 
-##<span style="color: green">The Fire Behind Nuance 
+## <span style="color: green">The Fire Behind Nuance 
 ---
-###The Overall Inspiration for Nuance
+### The Overall Inspiration for Nuance
 
 Nuance has evolved over the years to include digital document management, voice recognition, natural language processing, artificial intelligence, decision support, and other techonologies.  Throughout, it has focused on improving the productivity, efficiency, and seamless experience of information flow with a focus on healthcare.
 
 
-###Visioneer and Beyond
+### Visioneer and Beyond
 Though there was widespead adoption of personal computing by the 1980s and early 1990s, the work still necessitated the frequent use of paper.  Visioneer made it possible for a regular employee to conveniently convert paper documents to digital with sheetfed scanners.  Later advances such as the [OneTouch](https://www.visioneer.com/visioneer-intelligent-software-platform/visioneer-onetouch-software/#:~:text=Visioneer%20OneTouch%20directly%20links%20Visioneer,ability%20%E2%80%93%20even%20all%20at%20once.) scanner improved worker productivity and creativity by making scanning and information exchange easier.  
 
 ![Visioneer OneTouch Scanner Example](visioneer-onetouch.jpeg)
 *An example of a Visioneer OneTouch scanner.*
 
 When the two competing speech recognition companies Nuance and ScanSoft merged in 2005, the newly minted Nuance restructured with layoffs and office site consolidations.  
->####The Benefits to Nuance of Restructuring:
+>#### The Benefits to Nuance of Restructuring:
 >>- Elimination of redundancies 
 >>- Improved speed of solutions to market 
 >>- Improved affordability of product to consumers
@@ -68,7 +68,7 @@ When the two competing speech recognition companies Nuance and ScanSoft merged i
 >>- Availability of talent to position Nuance for success in the 2005 market and innovate for the future
 
 
-###Evolution to Microsoft + Nuance 
+### Evolution to Microsoft + Nuance 
  The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedication to [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare), a comprehensive, industry-specific cloud strategy for healthcare.  
 
 [![MCforHCinAction](https://i.ytimg.com/vi/OWMBCSi-iA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWMBCSi-iA8 "MCforHCinAction")
@@ -81,13 +81,13 @@ Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsof
 
 ##<span style="color: green">Nuance's Backing 
 ---
-###How has Nuance been funded?
+### How has Nuance been funded?
 
 Most recently, Nuance  was purchased by Microsoft in an all-cash transaction on March 4, 2022.  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
 Prior to this time, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
 
-###How much funding has Nuance received?
+### How much funding has Nuance received?
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's revenue actually represented a decline since 2018.  
 
 | Annual revenue |          |         |
@@ -127,7 +127,7 @@ Prior to Nuance's acquisition by Microsoft, the company had 28 investors ans had
 
 You can watch videos from Microsoft's and Nuance Communications's CEOs for their takes on the merger at [Microsoft + Nuance:  Better Together](https://news.microsoft.com/nuance/)
 
-#Business Activities
+# Business Activities
 
 
 
@@ -152,7 +152,7 @@ Consequently, burnout is now an epidemic among physicians, with as much as 53% e
 
 ##<span style="color: green">Nuance's Market
 ---
-###Nuance's Customer
+### Nuance's Customer
 
 "Restoring the Joy of Practicing Medicine" Nuance [Dragon Ambient eXperience (DAX)](https://www.nuance.com/healthcare/ambient-clinical-intelligence.html) has evolved over the last few years to its latest iteration of fully automated clinical documentation, [DAX Copilot](https://www.prnewswire.com/news-releases/nuance-announces-the-general-availability-of-dragon-ambient-experience-copilot-to-further-improve-healthcare-experiences-outcomes-and-efficiency-301939899.html). Where prior versions of DAX relied on conversational and ambient artificial intelligence, DAX Copilot includes generative AI (i.e., the "copilot"). DAX Copilot can be used for virtual or in-person healthcare visits.  
 
@@ -169,7 +169,7 @@ Primary customers for DAX Copilot include:
 *Physician and administator testimonial about the value of using DAX at University of Michigan Health-West.  Please click on the image to access the video.*
 
 
-###Mutual Benefits for Scalability and Differentiation
+### Mutual Benefits for Scalability and Differentiation
 
 >"In 2019, Nuance and Microsoft combined on a healthcare stack that included speech recognition and processing, clinical documentation, decision support, and Azure AI and natural language tools." (Dignan, ZDNET)
 
@@ -195,7 +195,7 @@ Primary customers for DAX Copilot include:
 
 Nuance adds strong
 
-##<span style="color: green">Nuance's Technology 
+## <span style="color: green">Nuance's Technology 
 ---
 DAX Copilot is ambient.  A physician's smartphone seamlessly and discreetly documents the physician-patient interaction and then populates the patient's electronic health record without imposing on the natural dynamics of convesation and workflow.  DAX Copilot enriches the content of physician's notes by offering decision support and personalization based on a patient's electronic health record and preferences.         
 
@@ -215,7 +215,7 @@ DAX Copilot is ambient.  A physician's smartphone seamlessly and discreetly docu
 
   
 
-#Competitive Landscape
+# Competitive Landscape
 
 
 Nuance is a computer software technology corporation.  Its specialty is conversational and ambient AI for healthcare.  Nuance's Dragon speech recognition and products have been on the market for quite some time.  Following the merger with ScanSoft in 2005, Nuance shifted its focus away from speech recognition products for a variety of industries to focus on healthcare.  Since the merger, Nuance has advanced its speech recognition software for healthcare to include features of conversational and ambient AI.  
@@ -244,7 +244,7 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 *Share of market by the top cloud-based service providers.*
 #Results
 
-##<span style="color: green">Business Impact
+## <span style="color: green">Business Impact
 
 Besides being in the majority of US hospitals and used by most physicians, Nuance could claim 1.33 billion dollars in 2021.  However, this amount reflected a slump from 1.74 billion dollars in 2019.  
 
@@ -252,7 +252,7 @@ Besides being in the majority of US hospitals and used by most physicians, Nuanc
 *A 10-year stock pricing timeline for Nuance from 2012 to 2022. Nuance stock more than doubled in value just prior to the acquisition by Microsoft.  The share price has stayed close to 56 dollars since then*
 
 
-##<span style="color: green">Core Metrics 
+## <span style="color: green">Core Metrics 
 
 Nuance's core metrics fall broadly into value-based and traditional financial metrics.  Value-based measures would include the proven value DAX Copilot has for physicians and healthcare systems.  Value-based metrics are:
 
@@ -278,19 +278,19 @@ Currently, Microsoft + Nuance is the second largest cloud-based service provider
 
 https://www.youtube.com/watch?v=R8YR243hbNA
 
-#Recommendations
+# Recommendations
 
-##<span style="color: green">Advise
+## <span style="color: green">Advise
 ---
 I would recommend Nuance branch into augmented and virtual reality.
 
-##<span style="color: green">Benefits
+## <span style="color: green">Benefits
 ---
 Currently Nuance's offerings for healthcare are limited to speech, documentation, and healthcare settings.  Patients are engage in their healthcare through a variety of experiences including visuals and haptics.  They also frequently engage in care outside of healthcare settings throuhg telehealth.  Opportunities to turn any home into a sensory rich and informative virtual clinic could provide several potential financial and social benefits.
 
 ---
 
-#Reference List
+# Reference List
 
 https://dokumen.tips/documents/jp-morgan-healthcare-conference-secular-trends-driving-demand-for-nuance-solutions.html?page=1
 
