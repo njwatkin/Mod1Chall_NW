@@ -7,7 +7,7 @@
 ![Nuance logo](image.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ***
-#Overview
+# Overview
 
 
 >*Nuance is known for conversational AI technology and cloud-based strategies.  The technology is applied across a variety of industries but most notably in healthcare with clinical documentation solutions.* 
