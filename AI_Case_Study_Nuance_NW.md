@@ -228,7 +228,7 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 
 ![](Topcloud.png)
 
-*These are Microsoft + Nuance's top competitors of cloud-based services.*
+*These are Microsoft + Nuance's top competitors for cloud-based services.*
 
 | **Cloud Service Provider** | **Market Share** |
 |------------------------|--------------|
