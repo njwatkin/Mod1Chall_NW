@@ -283,11 +283,14 @@ Currently, Microsoft + Nuance is the second largest cloud-based service provider
 
 ## <span style="color: green">Advise
 ---
-I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.   
+I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the seamless adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.  Optimized value-based and traditional economic benefits would include:
+
+-Increased market permeation for Microsoft + Nuance through a more comprehensive Microsoft Cloud for Healthcare offering and into other markets where health and wellness are a priority for consumers.
+-Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences and outcomes. 
 
 ## <span style="color: green">Benefits
 ---
-Currently, Nuance's offerings for healthcare are primarily limited to speech, text, and experiences within healthcare settings.  Patients engage in their healthcare through a variety of visual and haptic experiences.  They also frequently engage in health behaviors outside of healthcare settings with telehealth, mhealth, rehabilitation, and with everyday living. Such experiences can be expressed in and responded to through mHealth solutions and a variety of other media through which patients convey health and illness. 
+Currently, Nuance's offerings for healthcare are primarily limited to speech, text, and experiences within healthcare settings.  Patients engage in their healthcare through a variety of visual and haptic experiences.  They also frequently engage in health behaviors outside of healthcare settings with telehealth, mhealth, rehabilitation, and with everyday living. Such experiences can be expressed in and responded to through mHealth solutions and a variety of other media and behaviors through which patients convey their health and illness. 
 
 There are opportunities for DAX to become more adaptible to hybridized and complex contexts and services beyond administrative tasks to inlcude care delivery, diagnostics, and therapies: 
 -Triangulation of a physician, patient, patient advocate, and specialist in a shared environment they can synchronously interact in irrespective of location
