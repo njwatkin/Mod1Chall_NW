@@ -92,28 +92,29 @@ Most recently, Nuance  was purchased by Microsoft in  2022. Prior to 2022, Nuanc
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's overall revenue actually represented a dip since a high of nearly 2 billion dollars in 2018.  
 
 
+   | Year       | Revenue  | Change  |   
+   |------------|----------|---------|
+   | 2021 (TTM) | $1.33 B  | -4.86%  |   
+   | 2020       | $1.40 B  | -19.53% |   
+   | 2019       | $1.74 B  | -14.48% |   
+   | 2018       | $2.04 B  | 4.62%   |   
+   | 2017       | $1.95 B  | 0.15%   |   
+   | 2016       | $1.95 B  | 0.37%   |   
+   | 2015       | $1.94 B  | 0.82%   |   
+   | 2014       | $1.92 B  | 3.46%   |   
+   | 2013       | $1.86 B  | 6.27%   |   
+   | 2012       | $1.75 B  | 27.45%  |   
+   | 2011       | $1.37 B  | 18.6%   |   
+   | 2010       | $1.15 B  | 16.39%  |   
+   | 2009       | $0.99 B  | 11.93%  |   
+   | 2008       | $0.89 B  | 34.16%  |   
+   | 2007       | $0.66 B  | 48.66%  |   
+   | 2006       | $0.44 B  | 80.46%  |   
+   | 2005       | $0.24 B  | 84.32%  |   
+   | 2003       | $0.13 B  | 26.99%  |   
+   | 2002       | $0.10 B  | 66.97%  |   
+   | 2001       | $63.85 M |         |   
 
-| **Year**           | **Revenue**  | **Change**  |
-| 2021 (TTM)     | $1.33 B  | -4.86%  |
-| 2020           | $1.40 B  | -19.53% |
-| 2019           | $1.74 B  | -14.48% |
-| 2018           | $2.04 B  | 4.62%   |
-| 2017           | $1.95 B  | 0.15%   |
-| 2016           | $1.95 B  | 0.37%   |
-| 2015           | $1.94 B  | 0.82%   |
-| 2014           | $1.92 B  | 3.46%   |
-| 2013           | $1.86 B  | 6.27%   |
-| 2012           | $1.75 B  | 27.45%  |
-| 2011           | $1.37 B  | 18.6%   |
-| 2010           | $1.15 B  | 16.39%  |
-| 2009           | $0.99 B  | 11.93%  |
-| 2008           | $0.89 B  | 34.16%  |
-| 2007           | $0.66 B  | 48.66%  |
-| 2006           | $0.44 B  | 80.46%  |
-| 2005           | $0.24 B  | 84.32%  |
-| 2003           | $0.13 B  | 26.99%  |
-| 2002           | $0.10 B  | 66.97%  |
-| 2001           | $63.85 M |         |
 
 
 *Nuance's annual revenue between 2001 and 2021.*
