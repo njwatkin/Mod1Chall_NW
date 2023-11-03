@@ -279,7 +279,7 @@ Currently, Microsoft + Nuance is the second largest cloud-based service provider
 
 # Recommendations
 
-## <span style="color: green">Ideating
+## <span style="color: green">Ideation
 ---
 I would recommend Nuance push-the-envelope in mhealth and augmented and virtual reality.  This will create more enriching and immersive environments for physician-patient interactions and reinforce the seamless adaptibility and accuracy of DAX to a variety of hybridized and complex contexts.  
 
