@@ -69,7 +69,7 @@ When the two competing speech recognition companies Nuance and ScanSoft merged i
 
 
 ### Evolution to Microsoft + Nuance 
- The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedication to [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare), a comprehensive, industry-specific cloud strategy for healthcare.  
+The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedication to [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare), a comprehensive, industry-specific cloud strategy for healthcare.  
 
 [![MCforHCinAction](https://i.ytimg.com/vi/OWMBCSi-iA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWMBCSi-iA8 "MCforHCinAction")
 *Microsoft Cloud for Healthcare in action - A digital front door to personalize the patient visit. Please click on the image to access the video*
@@ -79,15 +79,15 @@ Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsof
 ![Pajama Time](1556630804933.png)
 *"Pajama time" is what physicians call the time they take to catchup on charting from a consult with a patient.*  
 
-##<span style="color: green">Nuance's Backing 
+## <span style="color: green">Nuance's Backing 
 ---
-### How has Nuance been funded?
+### Nuance's Funding
 
 Most recently, Nuance  was purchased by Microsoft in an all-cash transaction on March 4, 2022.  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
 Prior to this time, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
 
-### How much funding has Nuance received?
+### Funding Amount
 Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's revenue actually represented a decline since 2018.  
 
 | Annual revenue |          |         |
