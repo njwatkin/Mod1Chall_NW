@@ -117,7 +117,7 @@ Though Nuance is synomous with Siri, the Healthcare industry has traditionally b
 
 *Nuance's revenue between 2001 and 2021.*
 
-Nuance was purchased by Microsoft in an all-cash transaction of $19.7 billion on March 4, 2022.   This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
+Nuance was purchased by Microsoft in an all-cash transaction of $19.7 billion on March 4, 2022, to form a new entity called [Microsoft + Nuance](https://www.microsoft.com/en-us/industry/nuance).  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
 Prior to Nuance's acquisition by Microsoft, the company had 28 investors ans had raised an estimated 70 million dollars over 12 funding rounds. However, this seemed low and additional research involving paid access to financial reports would likely refine that estimate. 
 
