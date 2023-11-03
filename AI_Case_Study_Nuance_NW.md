@@ -88,10 +88,10 @@ Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsof
 
 Most recently, Nuance  was purchased by Microsoft in an all-cash transaction on March 4, 2022.  This was Microsoft's second largest acquisition up till that time after LinkedIn in 2016. 
 
-Prior to this time, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
+Prior to 2022, Nuance Communications had been funded at least 12 different times by venture capital, corporate venture, and private equity firms and through public offerings.  
 
 ### Funding Amount
-Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's revenue actually represented a decline since 2018.  
+Though Nuance is synomous with Siri, the Healthcare industry has traditionally been the bulk of Nuance's revenue at 62% or 915 million dollars in 2020.  The remaining 32% or $530 million dollars of revenue was from financial service, telecommunication, retail, and government markets.  However, 2020's overall revenue actually represented a dip since a high of nearly 2 billion dollars in 2018.  
 
 | Annual revenue |          |         |
 |----------------|----------|---------|
