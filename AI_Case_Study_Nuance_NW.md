@@ -201,13 +201,13 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 
 | The Technology           | What the Technology Does                                                                                                                                                          |   
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Conversational AI        | An ecosystem of AI technologies that simulate human conversation.  The AI and machine learning includes speech recognition and natural language processing.                       |   
-| Ambient AI               | Discreetly blends into the context it records and reacts to by inhabiting everyday devices.  The AI technology is regularly calibrated by our experiences and acts on our behalf. |   
+| Conversational AI        | AI technologies that simulate human conversation.  The AI and machine learning includes speech recognition and natural language processing.                       |   
+| Ambient AI               | Discreetly blends into the context it records and reacts to by inhabiting everyday devices.  The AI technology is regularly calibrated by user experiences and acts on the user's behalf. |   
 | Generative AI            | Produces novel content in text, sound, images, and video based on what the AI has "learned" in the past.                                                                          |   
 | Cloud Computing Platform | Computing services available over the internet.                                                                                                                                   |   
-| Electronic Health Record | Electronic records of a patient's history                                                                                                                                        
+| Electronic Health Record | Electronic records of a patient's history.                                                                                                                                        
 
-*Dax Copilot's technologies and what they do.*
+*Dax Copilot's primary technologies and what they do.*
 
 ![Tech](DisruptiveInnovationAI.webp){ width="500" height="330" style="display: block; margin: 0 auto" }
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to its acquisition by Microsoft. This is a simplified diagram illustrating how Nuance DAX works.*
