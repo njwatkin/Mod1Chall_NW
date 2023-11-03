@@ -217,7 +217,7 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 # Competitive Landscape
 
 
-Nuance is a computer software technology corporation.  Its specialty is conversational and ambient AI for healthcare.  Nuance's Dragon speech recognition and products have been on the market for quite some time.  Following the merger with ScanSoft in 2005, Nuance shifted its focus away from speech recognition products for a variety of industries to focus on healthcare.  Since the merger, Nuance has advanced its speech recognition software for healthcare to include features of conversational and ambient AI.  
+Nuance is a computer software technology corporation.  Nuance's Dragon speech recognition and products have been on the market since the early 2000s.  Following the merger with ScanSoft in 2005, Nuance shifted its focus away from speech recognition products for a variety of industries to focus on healthcare.  Since the merger, Nuance has advanced its speech recognition software for healthcare to include features of conversational and ambient AI.  
 
 Healthcare AI is a crowded space with many competitors.  Prior to acquistion by Microsoft, Nuance would have considered the followig companies competitors:
 
