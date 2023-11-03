@@ -21,7 +21,7 @@
 
 Nuance was originally incorporated as Visioneer in 1992.  The company has morphed and changed names through a series of acquisitions and mergers before officially adopting the name of Nuance in 2005 during a merger with Scansoft.
 
-<iframe src="https://www.computerworld.com/article/2556291/scansoft-to-buy-nuance-for--220m.html" width="100" height="100" title="SEC"></iframe
+<iframe src="https://www.computerworld.com/article/2556291/scansoft-to-buy-nuance-for--220m.html"></iframe
 
 
 
