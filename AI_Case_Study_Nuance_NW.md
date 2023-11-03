@@ -196,7 +196,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 ## <span style="color: green">Nuance's Technology 
 ---
-DAX Copilot is ambient.  A physician's smartphone seamlessly and discreetly documents the physician-patient interaction and then populates the patient's electronic health record without imposing on the natural dynamics of convesation and workflow.  DAX Copilot enriches the content of physician's notes by offering decision support and personalization based on a patient's electronic health record and preferences.         
+With the DAX Copilot app, physician's smartphone seamlessly and discreetly documents the physician-patient interaction and then populates the patient's EHR without imposing on the natural flow of conversation and care delivery.  DAX Copilot enriches the content of physician's notes by offering decision support and personalization based on generative AI of a patient's electronic health record and reported preferences.         
 
 
 | The Technology           | What the Technology Does                                                                                                                                                          |   
