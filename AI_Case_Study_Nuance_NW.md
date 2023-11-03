@@ -56,7 +56,7 @@ Nuance has evolved over the years to include digital document management, voice 
 ### Visioneer and Beyond
 Though there was widespead adoption of personal computing by the 1980s and early 1990s, work still necessitated the frequent use of paper.  Visioneer made it possible for a regular employee to conveniently convert paper documents to digital with sheetfed scanners.  Later advances such as the [OneTouch](https://www.visioneer.com/visioneer-intelligent-software-platform/visioneer-onetouch-software/#:~:text=Visioneer%20OneTouch%20directly%20links%20Visioneer,ability%20%E2%80%93%20even%20all%20at%20once.) scanner improved worker productivity and creativity by making scanning and information exchange easier.  
 
-![Visioneer OneTouch Scanner Example](visioneer-onetouch.jpeg){ width="340" height="470" style="display: block; margin: 0 auto" }
+![Visioneer OneTouch Scanner Example](visioneer-onetouch.jpeg)
 
 
 *An example of a Visioneer OneTouch scanner.*
@@ -78,7 +78,7 @@ The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedic
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
 
-![Pajama Time](1556630804933.png)
+![Pajama Time](1556630804933.png){ width="340" height="470" style="display: block; margin: 0 auto" }
 
 *For physicians, clinical documentation also occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on work-life balance. "Pajama time" is what physicians call the time they take to catchup on clinical documentation.*  
 
