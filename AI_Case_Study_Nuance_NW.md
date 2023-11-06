@@ -73,7 +73,7 @@ The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedic
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="630" height="550">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="650" height="550">
 
 *Clinical documentation occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on physicians's work-life balance. "Pajama time" is what physicians call this to catchup on clinical documentation.*  
 
@@ -189,7 +189,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 *Table of Microsoft's and Nuance's strengths and differentiation*
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="550" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="590" height="400">
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to Nuance's acquisition by Microsoft.  The excerpt shares the key differentiators Nuance's highlighted in the presentation.*
 
