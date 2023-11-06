@@ -208,9 +208,7 @@ With the DAX Copilot app, physician's smartphone seamlessly and discreetly docum
 
 *DAX Copilot's primary technologies and what they do.*
 
-![Tech](DisruptiveInnovationAI.webp) 
-
-<img src="" width="630" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/DisruptiveInnovationAI.webp" width="630" height="400">
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to its acquisition by Microsoft. This is a simplified diagram illustrating how Nuance DAX works.*
 
@@ -231,6 +229,9 @@ Healthcare AI is a crowded space with many competitors.  Prior to acquistion by 
 Following the acquisition, the competition grew in number and size.   Microsoft + Nuance can now count Amazon Web Services and Google cloud as major competitors.
 
 ![](Topcloud.png)
+
+
+<img src="" width="630" height="400">
 
 *These are Microsoft + Nuance's top competitors for cloud-based services.*
 
