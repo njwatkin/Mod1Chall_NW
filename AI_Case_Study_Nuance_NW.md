@@ -73,7 +73,7 @@ The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedic
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="600" height="550">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="630" height="550">
 
 *Clinical documentation occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on physicians's work-life balance. "Pajama time" is what physicians call this to catchup on clinical documentation.*  
 
@@ -135,7 +135,8 @@ You can watch videos from Microsoft's and Nuance Communications's CEOs for their
 
 
 As far back as Ancient Greece, the notes a physician recorded when consulting with a patient were a narrative diary of the patient's symptoms.  Advances in the sciences from the 17th-century on have shifted the physician's notes away from a hand-written diary to a complicated digital tome shaped buy standardization, specialists, medications, test results, diagnoses, treatments, prognoses, research findings, malpractice suits, third-party payment, a patient's social history, and many other factors.    
-<img src="" width="450" height="450">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Crayon.png" width="450" height="450">
+
 *The above drawing was published in a 2019 issue of The Lancet.  It caused a sensation across the healthcare industry. To the left, is the pediatrician.  He has his back turned to a patient and her family (to the right) while he (to the left) focuses on data entry into the electronic health record (EHR).  The drawing became iconic of the growing disconnection between physician and patient during clinical consults brought on by the widespread adoption of the electronic medical record and after the passing of the [Patient Protection and Affordable Care Act](https://www.healthcare.gov/glossary/patient-protection-and-affordable-care-act/) in 2010.*
 
 
