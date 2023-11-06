@@ -189,7 +189,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 *Table of Microsoft's and Nuance's strengths and differentiation*
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="500" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="550" height="400">
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to Nuance's acquisition by Microsoft.  The excerpt shares the key differentiators Nuance's highlighted in the presentation.*
 
