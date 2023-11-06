@@ -135,7 +135,7 @@ You can watch videos from Microsoft's and Nuance Communications's CEOs for their
 
 
 As far back as Ancient Greece, the notes a physician recorded when consulting with a patient were a narrative diary of the patient's symptoms.  Advances in the sciences from the 17th-century on have shifted the physician's notes away from a hand-written diary to a complicated digital tome shaped buy standardization, specialists, medications, test results, diagnoses, treatments, prognoses, research findings, malpractice suits, third-party payment, a patient's social history, and many other factors.    
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Crayon.png" width="480" height="450">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Crayon.png" width="520" height="450">
 
 *The above drawing was published in a 2019 issue of The Lancet.  It caused a sensation across the healthcare industry. To the left, is the pediatrician.  He has his back turned to a patient and her family (to the right) while he (to the left) focuses on data entry into the electronic health record (EHR).  The drawing became iconic of the growing disconnection between physician and patient during clinical consults brought on by the widespread adoption of the electronic medical record and after the passing of the [Patient Protection and Affordable Care Act](https://www.healthcare.gov/glossary/patient-protection-and-affordable-care-act/) in 2010.*
 
@@ -189,7 +189,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 *Table of Microsoft's and Nuance's strengths and differentiation*
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="590" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="630" height="400">
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to Nuance's acquisition by Microsoft.  The excerpt shares the key differentiators Nuance's highlighted in the presentation.*
 
