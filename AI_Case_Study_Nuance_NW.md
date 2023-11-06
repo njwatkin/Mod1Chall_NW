@@ -35,7 +35,7 @@ The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At 
 
 Mr. Croen co-founded Nuance in 1994 with colleagues from SRI International.  Once Nuance spunoff from SRI International, Croen served as Nuance's CEO for 10 years until a merger with Scansoft (which had previously merged with Visioneer).   
 
-![](RonaldCroen-220x220.jpg)
+![](RonaldCroen-220x220.jpg)<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/RonaldCroen-220x220.jpg" width="100" height="100">
 
 <i>Ronald Croen, Nuance Communications co-founder, 2005</i>
 
