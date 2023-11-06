@@ -228,9 +228,6 @@ Healthcare AI is a crowded space with many competitors.  Prior to acquistion by 
 
 Following the acquisition, the competition grew in number and size.   Microsoft + Nuance can now count Amazon Web Services and Google cloud as major competitors.
 
-![](Topcloud.png)
-
-
 <img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Topcloud.png" width="630" height="400">
 
 *These are Microsoft + Nuance's top competitors for cloud-based services.*
@@ -253,6 +250,9 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 Besides being in the majority of US hospitals and used by most physicians, Nuance could claim 1.33 billion dollars in 2021.  However, this amount reflected a slump from 1.74 billion dollars in 2019.  
 
 ![](10-year-stock-price-chart-Nuance-Communications-Inc.png)
+
+<img src="" width="630" height="400">
+
 
 *A 10-year stock pricing timeline for Nuance from 2012 to 2022. Nuance stock more than doubled in value just prior to the acquisition by Microsoft.  The price of a share has stayed close to 56 dollars since then.
 
