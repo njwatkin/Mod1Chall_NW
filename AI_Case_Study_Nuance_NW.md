@@ -189,7 +189,7 @@ Microsoft + Nuance will be able to deploy Nuance's natural language processing s
 
 *Table of Microsoft's and Nuance's strengths and differentiation*
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="400" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Differentiation.png" width="500" height="400">
 
 *An excerpt from a presentation Nuance gave to JP Morgan Chase prior to Nuance's acquisition by Microsoft.  The excerpt shares the key differentiators Nuance's highlighted in the presentation.*
 
@@ -291,7 +291,7 @@ I would recommend Nuance push-the-envelope in mhealth and augmented and virtual 
 >>- Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences, education, and outcomes.
 
 
-1[Blended mixe reality in healthcare]()
+1[Blended mixed reality in healthcare]()
 *Mixed-blended reality can be flexible across a variety of contexts and situations wherein a physician-patient interaction could occur. 
 
 ## <span style="color: green">Benefits
