@@ -73,7 +73,7 @@ The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedic
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="500"  height="525">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/afterhourscharting.png" width="500" height="550">
 
 *Clinical documentation occurs outside of the physician-patient consult.  Unfortunately, this additional time adds up and intrudes on physicians's work-life balance. "Pajama time" is what physicians call this to catchup on clinical documentation.*  
 
