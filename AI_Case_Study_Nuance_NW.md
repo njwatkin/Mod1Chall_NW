@@ -292,7 +292,7 @@ I would recommend Nuance push-the-envelope in mhealth and augmented and virtual 
 >>- Increased market permeation for Microsoft + Nuance through a more comprehensive Microsoft Cloud for Healthcare offering and into other markets where health and wellness are a priority for consumers.
 >>- Improved efficiencies in healthcare delivery that correlate with improved physician and patient experiences, education, and outcomes.
 
-<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/ar-vr-medical.jpeg" width="670" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/ar-vr-medical.jpeg" width="720" height="400">
 
 *Mixed-blended reality can be flexible across a variety of contexts and situations wherein a physician-patient interaction could occur. 
 
@@ -367,6 +367,8 @@ https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generativ
 https://companiesmarketcap.com/nuance-communications/revenue/
 
 https://www.knowledgehut.com/blog/cloud-computing/top-cloud-computing-companies
+
+https://www.dicomdirector.com/ar-and-vr-in-medicine/
 
 *The Digital Doctor:  Hope, Hype, and Harm at the Dawn of Medicine's Computer Age.*
 
