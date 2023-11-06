@@ -231,7 +231,7 @@ Following the acquisition, the competition grew in number and size.   Microsoft 
 ![](Topcloud.png)
 
 
-<img src="" width="630" height="400">
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/Topcloud.png" width="630" height="400">
 
 *These are Microsoft + Nuance's top competitors for cloud-based services.*
 
