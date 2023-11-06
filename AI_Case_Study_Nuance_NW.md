@@ -27,7 +27,8 @@ Nuance was originally incorporated as Visioneer in 1992.  The company has morphe
 
 The seeds for Nuance were planted in 1992 when Mr. Cotte founded Visioneer.  At that time, Visioneer focused on "intelligent document capture solutions" or scanners. 
 
-![Pierre](pierre.webp) 
+
+<img src="https://github.com/njwatkin/Mod1Chall_NW/blob/main/pierre.webp" width="400" height="400">
 
 <i>Pierre-Alain Cotte, Visioneer founder, 1992</i>
 
