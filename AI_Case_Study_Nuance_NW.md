@@ -68,7 +68,7 @@ When the two competing speech recognition companies Nuance and ScanSoft merged i
 ### Evolution to Microsoft + Nuance 
 The 2022 acquisition of Nuance by Microsoft represents Microsoft's ongoing dedication to [Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare), a comprehensive, industry-specific cloud strategy for healthcare.  
 
-[![MCforHCinAction](https://i.ytimg.com/vi/OWMBCSi-iA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWMBCSi-iA8)<MCforHCinAction" width="450" height="450>
+[![MCforHCinAction](https://i.ytimg.com/vi/OWMBCSi-iA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWMBCSi-iA8)<width="450" height="450>
 *Microsoft Cloud for Healthcare in action - A digital front door to personalize the patient visit. Please click on the image to access the video.*
 
 Nuance's artificial intelligence (AI) and cloud-based solutions augment Microsoft Cloud for Healthcare with advanced conversational AI and cloud-based ambient clinical intelligence.  These support seamless clinical documentation during a physician-patient consult while cutting down time on wasteful administrative responsibilities.
